@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>images/gamemenu.jpg</file>
+        <file>images/menu.png</file>
+        <file>maps/map_3.txt</file>
+        <file>maps/map_1.txt</file>
+        <file>maps/map_4.txt</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>images/box.jpg</file>
+        <file>images/bricks.png</file>
+        <file>images/forest.jpg</file>
+        <file>images/breakwall.jpg</file>
+        <file>images/healing.jpg</file>
+        <file>images/speed.jpg</file>
+        <file>images/virtualable.jpg</file>
+        <file>images/protect.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>images/icon.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>styles.css</file>
+    </qresource>
+</RCC>
